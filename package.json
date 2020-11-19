@@ -1,6 +1,6 @@
 {
   "name": "separate-comma-numbers",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "module created to separate numbers or quantities greater than 999 by comma",
   "main": "src/index.js",
   "scripts": {
