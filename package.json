@@ -1,12 +1,20 @@
 {
   "name": "separate-comma-numbers",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "module created to separate numbers or quantities greater than 999 by comma",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marquitobb/separate-comma-numbers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marquitobb/separate-comma-numbers/issues"
+  },
+  "homepage": "https://github.com/marquitobb/separate-comma-numbers#readme"
 }
